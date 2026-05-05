@@ -33,6 +33,10 @@ import logging
 
 from src.predict import FakeNewsPredictor, PredictionResult
 
+print("APP STARTING...")
+import sys
+print(sys.version)
+
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
