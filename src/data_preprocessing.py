@@ -23,6 +23,7 @@ import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 from collections import Counter
 import logging
+from typing import List
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
