@@ -22,6 +22,7 @@ from dataclasses import dataclass
 from .data_preprocessing import DataPreprocessor, preprocess_single_text
 from .train import PyTorchTrainer
 import logging
+from typing import *
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
