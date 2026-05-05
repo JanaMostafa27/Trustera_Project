@@ -1,6 +1,6 @@
 # Core Machine Learning and Data Science Libraries
-torch==2.5.1
-torchvision>=0.20.0
+torch
+torchvision
 numpy==1.24.3
 pandas==2.0.3
 scikit-learn==1.3.0
