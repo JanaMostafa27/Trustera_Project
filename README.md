@@ -27,6 +27,7 @@ fake-news-detection/
 ├── main.py      # CLI entry point
 ├── requirements.txt
 └── README.md
+|__ Trustra_Documentation.pdf
 ```
 
 ---
